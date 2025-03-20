@@ -1,7 +1,3 @@
-Below is a draft README that incorporates the details you mentioned. Feel free to adjust any sections or add further explanations as needed:
-
----
-
 # Dihydro Data Model @context Generator
 
 This repository is a fork of the original repository from [satrai-lab/di-hydro-data-models](https://github.com/satrai-lab/di-hydro-data-models/tree/main/static). I used the tool provided there to create the `@context` file for the Dihydro Data Model. In addition, the markdown documentation was generated from the YAML file I created.
