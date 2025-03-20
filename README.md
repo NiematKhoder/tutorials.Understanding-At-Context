@@ -21,7 +21,7 @@ I installed Ubuntu 24.04 following the excellent guide provided by Automatic Add
 
 ## Acknowledgements
 
-- **Original Repository:** [FIWARE/tutorials.Understanding-At-Context]https://github.com/FIWARE/tutorials.Understanding-At-Context/tree/NGSI-LD)
+- **Original Repository:** [FIWARE/tutorials.Understanding-At-Context](https://github.com/FIWARE/tutorials.Understanding-At-Context/tree/NGSI-LD)
 - **Ubuntu Installation Guide:** [Automatic Addison’s guide](https://automaticaddison.com/how-to-install-ubuntu-24-04-virtual-machine-on-a-windows-pc/)
 
 ---
